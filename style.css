@@ -1,0 +1,28 @@
+.destaque{
+    font-weight: bold;
+}
+
+body{
+    background-color: rgb(128, 170, 190);
+}
+
+img{
+    border: 5px solid rgb(0, 0, 0);
+}
+
+a{
+    color: rgb(109, 7, 243);
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    background-color: rgb(68, 51, 108);
+    font-size: 1.2rem;
+    transition: 0.6s;
+    color: rgb(102, 35, 131);
+}
+
+a:visited{
+    color: rgb(88, 33, 103);
+}
