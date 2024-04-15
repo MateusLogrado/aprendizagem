@@ -3,7 +3,13 @@
 }
 
 body{
-    background-color: rgb(128, 170, 190);
+    background-color: rgb(241, 206, 228);
+}
+
+.corpo{
+    border: 5px solid;
+    border-radius: 15px;
+    background-color: rgb(223, 168, 193);
 }
 
 img{
@@ -17,7 +23,7 @@ a{
 
 a:hover{
     cursor: pointer;
-    background-color: rgb(168, 150, 210);
+    background-color: rgb(183, 163, 228);
     font-size: 1.2rem;
     transition: 0.6s;
     color: rgb(103, 57, 122);
