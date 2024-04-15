@@ -7,7 +7,7 @@ body{
 }
 
 .corpo{
-    border: 5px solid;
+    border: 5px solid rgb(104, 57, 84);
     border-radius: 15px;
     background-color: rgb(223, 168, 193);
 }
