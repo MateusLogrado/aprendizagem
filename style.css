@@ -6,8 +6,13 @@ body{
     background-color: rgb(241, 206, 228);
 }
 
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .corpo{
-    border: 5px solid rgb(104, 57, 84);
+    border: 5px solid rgb(114, 78, 98);
     border-radius: 15px;
     background-color: rgb(223, 168, 193);
 }
